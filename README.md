@@ -94,8 +94,4 @@ The application follows a standard **Model-View-Controller (MVC)** architectural
 
 ---
 
-I’m always open to corrections if I missed a key technical detail or if you’d like to format this differently—the best way to improve this is to just let me know what I got wrong or what else needs to be included.
 
-You can always turn this off in your settings.
-
-**Would you like me to draft a sample `application.properties` file or an API documentation summary to go along with this README?**
